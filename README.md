@@ -1,5 +1,7 @@
 # roontomatrix
 
+![alt text](https://github.com/kajuku87/roontomatrix/blob/main/sample.gif)
+
 This code uses the adafruit hat and rgb screen to display the art of the current album and track information.
 Main is the code you have to launch in your raspberry, you'll need a folder "images" inside the roontomatrix folder
 loadserver.py loads the server for the hat. Check this first:https://github.com/hzeller/flaschen-taschen
